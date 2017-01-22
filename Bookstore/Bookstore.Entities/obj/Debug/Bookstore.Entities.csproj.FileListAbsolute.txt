@@ -1,0 +1,17 @@
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\Bookstore\Bookstore\Bookstore.Entities\bin\Debug\Bookstore.Entities.dll
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\Bookstore\Bookstore\Bookstore.Entities\bin\Debug\Bookstore.Entities.pdb
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\Bookstore\Bookstore\Bookstore.Entities\obj\Debug\Bookstore.Entities.dll
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\Bookstore\Bookstore\Bookstore.Entities\obj\Debug\Bookstore.Entities.pdb
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Bookstore\Bookstore\Bookstore.Entities\bin\Debug\Bookstore.Entities.dll
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Bookstore\Bookstore\Bookstore.Entities\bin\Debug\Bookstore.Entities.pdb
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Bookstore\Bookstore\Bookstore.Entities\obj\Debug\Bookstore.Entities.dll
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Bookstore\Bookstore\Bookstore.Entities\obj\Debug\Bookstore.Entities.pdb
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\USMP\PROG1\Bookstore\Bookstore\Bookstore.Entities\bin\Debug\Bookstore.Entities.dll
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\USMP\PROG1\Bookstore\Bookstore\Bookstore.Entities\bin\Debug\Bookstore.Entities.pdb
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\USMP\PROG1\Bookstore\Bookstore\Bookstore.Entities\obj\Debug\Bookstore.Entities.dll
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\USMP\PROG1\Bookstore\Bookstore\Bookstore.Entities\obj\Debug\Bookstore.Entities.pdb
+D:\otro programa loco del profe\Bookstore\Bookstore\Bookstore.Entities\bin\Debug\Bookstore.Entities.dll
+D:\otro programa loco del profe\Bookstore\Bookstore\Bookstore.Entities\bin\Debug\Bookstore.Entities.pdb
+D:\otro programa loco del profe\Bookstore\Bookstore\Bookstore.Entities\obj\Debug\Bookstore.Entities.csprojResolveAssemblyReference.cache
+D:\otro programa loco del profe\Bookstore\Bookstore\Bookstore.Entities\obj\Debug\Bookstore.Entities.dll
+D:\otro programa loco del profe\Bookstore\Bookstore\Bookstore.Entities\obj\Debug\Bookstore.Entities.pdb

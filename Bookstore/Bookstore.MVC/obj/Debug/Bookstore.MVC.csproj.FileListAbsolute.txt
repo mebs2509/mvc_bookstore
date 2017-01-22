@@ -1,0 +1,123 @@
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Bookstore\Bookstore\Bookstore.MVC\bin\Bookstore.MVC.dll.config
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Bookstore\Bookstore\Bookstore.MVC\bin\Bookstore.MVC.dll
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Bookstore\Bookstore\Bookstore.MVC\bin\Bookstore.MVC.pdb
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Bookstore\Bookstore\Bookstore.MVC\bin\Antlr3.Runtime.dll
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Bookstore\Bookstore\Bookstore.MVC\bin\Bookstore.Context.dll
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Bookstore\Bookstore\Bookstore.MVC\bin\Bookstore.Entities.dll
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Bookstore\Bookstore\Bookstore.MVC\bin\EntityFramework.dll
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Bookstore\Bookstore\Bookstore.MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Bookstore\Bookstore\Bookstore.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Bookstore\Bookstore\Bookstore.MVC\bin\Newtonsoft.Json.dll
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Bookstore\Bookstore\Bookstore.MVC\bin\System.Web.Helpers.dll
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Bookstore\Bookstore\Bookstore.MVC\bin\System.Web.Mvc.dll
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Bookstore\Bookstore\Bookstore.MVC\bin\System.Web.Optimization.dll
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Bookstore\Bookstore\Bookstore.MVC\bin\System.Web.Razor.dll
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Bookstore\Bookstore\Bookstore.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Bookstore\Bookstore\Bookstore.MVC\bin\System.Web.WebPages.dll
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Bookstore\Bookstore\Bookstore.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Bookstore\Bookstore\Bookstore.MVC\bin\WebGrease.dll
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Bookstore\Bookstore\Bookstore.MVC\bin\Bookstore.Context.pdb
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Bookstore\Bookstore\Bookstore.MVC\bin\Bookstore.Entities.pdb
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Bookstore\Bookstore\Bookstore.MVC\bin\EntityFramework.xml
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Bookstore\Bookstore\Bookstore.MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Bookstore\Bookstore\Bookstore.MVC\bin\System.Web.Helpers.xml
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Bookstore\Bookstore\Bookstore.MVC\bin\System.Web.Mvc.xml
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Bookstore\Bookstore\Bookstore.MVC\bin\System.Web.Optimization.xml
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Bookstore\Bookstore\Bookstore.MVC\bin\System.Web.Razor.xml
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Bookstore\Bookstore\Bookstore.MVC\bin\System.Web.WebPages.xml
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Bookstore\Bookstore\Bookstore.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Bookstore\Bookstore\Bookstore.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Bookstore\Bookstore\Bookstore.MVC\bin\Antlr3.Runtime.pdb
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Bookstore\Bookstore\Bookstore.MVC\bin\Newtonsoft.Json.xml
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Bookstore\Bookstore\Bookstore.MVC\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Bookstore\Bookstore\Bookstore.MVC\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Bookstore\Bookstore\Bookstore.MVC\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Bookstore\Bookstore\Bookstore.MVC\bin\es\System.Web.Razor.resources.dll
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Bookstore\Bookstore\Bookstore.MVC\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Bookstore\Bookstore\Bookstore.MVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Bookstore\Bookstore\Bookstore.MVC\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Bookstore\Bookstore\Bookstore.MVC\obj\Debug\Bookstore.MVC.csprojResolveAssemblyReference.cache
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Bookstore\Bookstore\Bookstore.MVC\obj\Debug\Bookstore.MVC.dll
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Bookstore\Bookstore\Bookstore.MVC\obj\Debug\Bookstore.MVC.pdb
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\USMP\PROG1\Bookstore\Bookstore\Bookstore.MVC\bin\Bookstore.MVC.dll.config
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\USMP\PROG1\Bookstore\Bookstore\Bookstore.MVC\bin\Bookstore.MVC.dll
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\USMP\PROG1\Bookstore\Bookstore\Bookstore.MVC\bin\Bookstore.MVC.pdb
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\USMP\PROG1\Bookstore\Bookstore\Bookstore.MVC\bin\Antlr3.Runtime.dll
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\USMP\PROG1\Bookstore\Bookstore\Bookstore.MVC\bin\Bookstore.Context.dll
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\USMP\PROG1\Bookstore\Bookstore\Bookstore.MVC\bin\Bookstore.Entities.dll
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\USMP\PROG1\Bookstore\Bookstore\Bookstore.MVC\bin\EntityFramework.dll
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\USMP\PROG1\Bookstore\Bookstore\Bookstore.MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\USMP\PROG1\Bookstore\Bookstore\Bookstore.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\USMP\PROG1\Bookstore\Bookstore\Bookstore.MVC\bin\Newtonsoft.Json.dll
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\USMP\PROG1\Bookstore\Bookstore\Bookstore.MVC\bin\System.Web.Helpers.dll
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\USMP\PROG1\Bookstore\Bookstore\Bookstore.MVC\bin\System.Web.Mvc.dll
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\USMP\PROG1\Bookstore\Bookstore\Bookstore.MVC\bin\System.Web.Optimization.dll
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\USMP\PROG1\Bookstore\Bookstore\Bookstore.MVC\bin\System.Web.Razor.dll
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\USMP\PROG1\Bookstore\Bookstore\Bookstore.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\USMP\PROG1\Bookstore\Bookstore\Bookstore.MVC\bin\System.Web.WebPages.dll
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\USMP\PROG1\Bookstore\Bookstore\Bookstore.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\USMP\PROG1\Bookstore\Bookstore\Bookstore.MVC\bin\WebGrease.dll
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\USMP\PROG1\Bookstore\Bookstore\Bookstore.MVC\bin\Bookstore.Context.pdb
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\USMP\PROG1\Bookstore\Bookstore\Bookstore.MVC\bin\Bookstore.Entities.pdb
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\USMP\PROG1\Bookstore\Bookstore\Bookstore.MVC\bin\EntityFramework.xml
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\USMP\PROG1\Bookstore\Bookstore\Bookstore.MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\USMP\PROG1\Bookstore\Bookstore\Bookstore.MVC\bin\System.Web.Helpers.xml
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\USMP\PROG1\Bookstore\Bookstore\Bookstore.MVC\bin\System.Web.Mvc.xml
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\USMP\PROG1\Bookstore\Bookstore\Bookstore.MVC\bin\System.Web.Optimization.xml
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\USMP\PROG1\Bookstore\Bookstore\Bookstore.MVC\bin\System.Web.Razor.xml
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\USMP\PROG1\Bookstore\Bookstore\Bookstore.MVC\bin\System.Web.WebPages.xml
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\USMP\PROG1\Bookstore\Bookstore\Bookstore.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\USMP\PROG1\Bookstore\Bookstore\Bookstore.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\USMP\PROG1\Bookstore\Bookstore\Bookstore.MVC\bin\Antlr3.Runtime.pdb
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\USMP\PROG1\Bookstore\Bookstore\Bookstore.MVC\bin\Newtonsoft.Json.xml
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\USMP\PROG1\Bookstore\Bookstore\Bookstore.MVC\bin\es\System.Web.Helpers.resources.dll
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\USMP\PROG1\Bookstore\Bookstore\Bookstore.MVC\bin\es\System.Web.Mvc.resources.dll
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\USMP\PROG1\Bookstore\Bookstore\Bookstore.MVC\bin\es\System.Web.Optimization.resources.dll
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\USMP\PROG1\Bookstore\Bookstore\Bookstore.MVC\bin\es\System.Web.Razor.resources.dll
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\USMP\PROG1\Bookstore\Bookstore\Bookstore.MVC\bin\es\System.Web.WebPages.resources.dll
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\USMP\PROG1\Bookstore\Bookstore\Bookstore.MVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\USMP\PROG1\Bookstore\Bookstore\Bookstore.MVC\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\USMP\PROG1\Bookstore\Bookstore\Bookstore.MVC\obj\Debug\Bookstore.MVC.csprojResolveAssemblyReference.cache
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\USMP\PROG1\Bookstore\Bookstore\Bookstore.MVC\obj\Debug\Bookstore.MVC.dll
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\USMP\PROG1\Bookstore\Bookstore\Bookstore.MVC\obj\Debug\Bookstore.MVC.pdb
+D:\otro programa loco del profe\Bookstore\Bookstore\Bookstore.MVC\bin\Bookstore.MVC.dll.config
+D:\otro programa loco del profe\Bookstore\Bookstore\Bookstore.MVC\bin\Bookstore.MVC.dll
+D:\otro programa loco del profe\Bookstore\Bookstore\Bookstore.MVC\bin\Bookstore.MVC.pdb
+D:\otro programa loco del profe\Bookstore\Bookstore\Bookstore.MVC\bin\Antlr3.Runtime.dll
+D:\otro programa loco del profe\Bookstore\Bookstore\Bookstore.MVC\bin\Bookstore.Context.dll
+D:\otro programa loco del profe\Bookstore\Bookstore\Bookstore.MVC\bin\Bookstore.Entities.dll
+D:\otro programa loco del profe\Bookstore\Bookstore\Bookstore.MVC\bin\EntityFramework.dll
+D:\otro programa loco del profe\Bookstore\Bookstore\Bookstore.MVC\bin\EntityFramework.SqlServer.dll
+D:\otro programa loco del profe\Bookstore\Bookstore\Bookstore.MVC\bin\Microsoft.Web.Infrastructure.dll
+D:\otro programa loco del profe\Bookstore\Bookstore\Bookstore.MVC\bin\Newtonsoft.Json.dll
+D:\otro programa loco del profe\Bookstore\Bookstore\Bookstore.MVC\bin\System.Web.Helpers.dll
+D:\otro programa loco del profe\Bookstore\Bookstore\Bookstore.MVC\bin\System.Web.Mvc.dll
+D:\otro programa loco del profe\Bookstore\Bookstore\Bookstore.MVC\bin\System.Web.Optimization.dll
+D:\otro programa loco del profe\Bookstore\Bookstore\Bookstore.MVC\bin\System.Web.Razor.dll
+D:\otro programa loco del profe\Bookstore\Bookstore\Bookstore.MVC\bin\System.Web.WebPages.Deployment.dll
+D:\otro programa loco del profe\Bookstore\Bookstore\Bookstore.MVC\bin\System.Web.WebPages.dll
+D:\otro programa loco del profe\Bookstore\Bookstore\Bookstore.MVC\bin\System.Web.WebPages.Razor.dll
+D:\otro programa loco del profe\Bookstore\Bookstore\Bookstore.MVC\bin\WebGrease.dll
+D:\otro programa loco del profe\Bookstore\Bookstore\Bookstore.MVC\bin\Bookstore.Context.pdb
+D:\otro programa loco del profe\Bookstore\Bookstore\Bookstore.MVC\bin\Bookstore.Entities.pdb
+D:\otro programa loco del profe\Bookstore\Bookstore\Bookstore.MVC\bin\EntityFramework.xml
+D:\otro programa loco del profe\Bookstore\Bookstore\Bookstore.MVC\bin\EntityFramework.SqlServer.xml
+D:\otro programa loco del profe\Bookstore\Bookstore\Bookstore.MVC\bin\System.Web.Helpers.xml
+D:\otro programa loco del profe\Bookstore\Bookstore\Bookstore.MVC\bin\System.Web.Mvc.xml
+D:\otro programa loco del profe\Bookstore\Bookstore\Bookstore.MVC\bin\System.Web.Optimization.xml
+D:\otro programa loco del profe\Bookstore\Bookstore\Bookstore.MVC\bin\System.Web.Razor.xml
+D:\otro programa loco del profe\Bookstore\Bookstore\Bookstore.MVC\bin\System.Web.WebPages.xml
+D:\otro programa loco del profe\Bookstore\Bookstore\Bookstore.MVC\bin\System.Web.WebPages.Deployment.xml
+D:\otro programa loco del profe\Bookstore\Bookstore\Bookstore.MVC\bin\System.Web.WebPages.Razor.xml
+D:\otro programa loco del profe\Bookstore\Bookstore\Bookstore.MVC\bin\Antlr3.Runtime.pdb
+D:\otro programa loco del profe\Bookstore\Bookstore\Bookstore.MVC\bin\Newtonsoft.Json.xml
+D:\otro programa loco del profe\Bookstore\Bookstore\Bookstore.MVC\bin\es\System.Web.Helpers.resources.dll
+D:\otro programa loco del profe\Bookstore\Bookstore\Bookstore.MVC\bin\es\System.Web.Mvc.resources.dll
+D:\otro programa loco del profe\Bookstore\Bookstore\Bookstore.MVC\bin\es\System.Web.Optimization.resources.dll
+D:\otro programa loco del profe\Bookstore\Bookstore\Bookstore.MVC\bin\es\System.Web.Razor.resources.dll
+D:\otro programa loco del profe\Bookstore\Bookstore\Bookstore.MVC\bin\es\System.Web.WebPages.resources.dll
+D:\otro programa loco del profe\Bookstore\Bookstore\Bookstore.MVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\otro programa loco del profe\Bookstore\Bookstore\Bookstore.MVC\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\otro programa loco del profe\Bookstore\Bookstore\Bookstore.MVC\obj\Debug\Bookstore.MVC.csprojResolveAssemblyReference.cache
+D:\otro programa loco del profe\Bookstore\Bookstore\Bookstore.MVC\obj\Debug\Bookstore.MVC.dll
+D:\otro programa loco del profe\Bookstore\Bookstore\Bookstore.MVC\obj\Debug\Bookstore.MVC.pdb

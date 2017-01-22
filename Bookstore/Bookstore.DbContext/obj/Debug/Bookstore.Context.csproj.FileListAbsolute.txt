@@ -1,0 +1,56 @@
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\Bookstore\Bookstore\Bookstore.DbContext\bin\Debug\Bookstore.Context.dll.config
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\Bookstore\Bookstore\Bookstore.DbContext\bin\Debug\Bookstore.Context.dll
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\Bookstore\Bookstore\Bookstore.DbContext\bin\Debug\Bookstore.Context.pdb
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\Bookstore\Bookstore\Bookstore.DbContext\bin\Debug\Bookstore.Entities.dll
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\Bookstore\Bookstore\Bookstore.DbContext\bin\Debug\EntityFramework.dll
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\Bookstore\Bookstore\Bookstore.DbContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\Bookstore\Bookstore\Bookstore.DbContext\bin\Debug\Bookstore.Entities.pdb
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\Bookstore\Bookstore\Bookstore.DbContext\bin\Debug\EntityFramework.xml
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\Bookstore\Bookstore\Bookstore.DbContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\Bookstore\Bookstore\Bookstore.DbContext\obj\Debug\Bookstore.Context.csprojResolveAssemblyReference.cache
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\Bookstore\Bookstore\Bookstore.DbContext\obj\Debug\Bookstore.Context.Migrations.InitialModel.resources
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\Bookstore\Bookstore\Bookstore.DbContext\obj\Debug\Bookstore.Context.csproj.GenerateResource.Cache
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\Bookstore\Bookstore\Bookstore.DbContext\obj\Debug\Bookstore.Context.dll
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\Bookstore\Bookstore\Bookstore.DbContext\obj\Debug\Bookstore.Context.pdb
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Bookstore\Bookstore\Bookstore.DbContext\bin\Debug\Bookstore.Context.dll.config
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Bookstore\Bookstore\Bookstore.DbContext\bin\Debug\Bookstore.Context.dll
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Bookstore\Bookstore\Bookstore.DbContext\bin\Debug\Bookstore.Context.pdb
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Bookstore\Bookstore\Bookstore.DbContext\bin\Debug\Bookstore.Entities.dll
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Bookstore\Bookstore\Bookstore.DbContext\bin\Debug\EntityFramework.dll
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Bookstore\Bookstore\Bookstore.DbContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Bookstore\Bookstore\Bookstore.DbContext\bin\Debug\Bookstore.Entities.pdb
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Bookstore\Bookstore\Bookstore.DbContext\bin\Debug\EntityFramework.xml
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Bookstore\Bookstore\Bookstore.DbContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Bookstore\Bookstore\Bookstore.DbContext\obj\Debug\Bookstore.Context.csprojResolveAssemblyReference.cache
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Bookstore\Bookstore\Bookstore.DbContext\obj\Debug\Bookstore.Context.dll
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Bookstore\Bookstore\Bookstore.DbContext\obj\Debug\Bookstore.Context.pdb
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Bookstore\Bookstore\Bookstore.DbContext\obj\Debug\Bookstore.Context.Migrations.InitialModel.resources
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Bookstore\Bookstore\Bookstore.DbContext\obj\Debug\Bookstore.Context.csproj.GenerateResource.Cache
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\USMP\PROG1\Bookstore\Bookstore\Bookstore.DbContext\bin\Debug\Bookstore.Context.dll.config
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\USMP\PROG1\Bookstore\Bookstore\Bookstore.DbContext\bin\Debug\Bookstore.Context.dll
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\USMP\PROG1\Bookstore\Bookstore\Bookstore.DbContext\bin\Debug\Bookstore.Context.pdb
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\USMP\PROG1\Bookstore\Bookstore\Bookstore.DbContext\bin\Debug\Bookstore.Entities.dll
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\USMP\PROG1\Bookstore\Bookstore\Bookstore.DbContext\bin\Debug\EntityFramework.dll
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\USMP\PROG1\Bookstore\Bookstore\Bookstore.DbContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\USMP\PROG1\Bookstore\Bookstore\Bookstore.DbContext\bin\Debug\Bookstore.Entities.pdb
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\USMP\PROG1\Bookstore\Bookstore\Bookstore.DbContext\bin\Debug\EntityFramework.xml
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\USMP\PROG1\Bookstore\Bookstore\Bookstore.DbContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\USMP\PROG1\Bookstore\Bookstore\Bookstore.DbContext\obj\Debug\Bookstore.Context.csprojResolveAssemblyReference.cache
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\USMP\PROG1\Bookstore\Bookstore\Bookstore.DbContext\obj\Debug\Bookstore.Context.Migrations.InitialModel.resources
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\USMP\PROG1\Bookstore\Bookstore\Bookstore.DbContext\obj\Debug\Bookstore.Context.csproj.GenerateResource.Cache
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\USMP\PROG1\Bookstore\Bookstore\Bookstore.DbContext\obj\Debug\Bookstore.Context.dll
+C:\Users\fgome\Documents\Visual Studio 2015\Projects\USMP\PROG1\Bookstore\Bookstore\Bookstore.DbContext\obj\Debug\Bookstore.Context.pdb
+D:\otro programa loco del profe\Bookstore\Bookstore\Bookstore.DbContext\bin\Debug\Bookstore.Context.dll.config
+D:\otro programa loco del profe\Bookstore\Bookstore\Bookstore.DbContext\bin\Debug\Bookstore.Context.dll
+D:\otro programa loco del profe\Bookstore\Bookstore\Bookstore.DbContext\bin\Debug\Bookstore.Context.pdb
+D:\otro programa loco del profe\Bookstore\Bookstore\Bookstore.DbContext\bin\Debug\Bookstore.Entities.dll
+D:\otro programa loco del profe\Bookstore\Bookstore\Bookstore.DbContext\bin\Debug\EntityFramework.dll
+D:\otro programa loco del profe\Bookstore\Bookstore\Bookstore.DbContext\bin\Debug\EntityFramework.SqlServer.dll
+D:\otro programa loco del profe\Bookstore\Bookstore\Bookstore.DbContext\bin\Debug\Bookstore.Entities.pdb
+D:\otro programa loco del profe\Bookstore\Bookstore\Bookstore.DbContext\bin\Debug\EntityFramework.xml
+D:\otro programa loco del profe\Bookstore\Bookstore\Bookstore.DbContext\bin\Debug\EntityFramework.SqlServer.xml
+D:\otro programa loco del profe\Bookstore\Bookstore\Bookstore.DbContext\obj\Debug\Bookstore.Context.csprojResolveAssemblyReference.cache
+D:\otro programa loco del profe\Bookstore\Bookstore\Bookstore.DbContext\obj\Debug\Bookstore.Context.dll
+D:\otro programa loco del profe\Bookstore\Bookstore\Bookstore.DbContext\obj\Debug\Bookstore.Context.pdb
+D:\otro programa loco del profe\Bookstore\Bookstore\Bookstore.DbContext\obj\Debug\Bookstore.Context.Migrations.InitialModel.resources
+D:\otro programa loco del profe\Bookstore\Bookstore\Bookstore.DbContext\obj\Debug\Bookstore.Context.csproj.GenerateResource.Cache
